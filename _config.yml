@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 滔滔不绝
+title: 闲言碎语
 subtitle: 等一个人，等一个故事
 description: 喜欢骑行，喜欢篮球，热爱编程
 author: DOUBLE
@@ -14,8 +14,10 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://ufdouble.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
+baidusitemap:
+  path: baidusitemap.xml
 
 # Directory
 source_dir: source
