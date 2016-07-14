@@ -29,7 +29,7 @@ comments: false
 
 
 
-## 技能 ##
+## 技能栈 ##
 >### 前端技术：HTML5、CSS3、Bootstrap、js、Jquery、AJAX、angularJs、avalon
  
 >### 后端技术： SpringMVC、Spring、SpringBoot、Hibernate、Mybatis、Struts、JDBC、Jersey、Redis、Memcached
@@ -46,11 +46,13 @@ comments: false
 
 >### 测试框架： junit、testNG、mockito、easyMock
 
->### 构建工具： maven、groovy、ant
+>### 构建工具： maven、gradle、ant
 
->### 操作系统： windows、ubuntu、centos
+>### 操作系统： windows、linux、mac
 
->### 开发工具： eclipse、myeclipse、IntelliJ IDEA、Submile Text、sqldeveloper、Navicat Lite、SoapUI、Axure RP、Xmanager、Enterprise、git bash 
+>### 规范：HTTP、XML、json、soap、rest、Jpa
+
+>### 工具： eclipse、myeclipse、IntelliJ IDEA、Submile Text、sqldeveloper、Navicat Lite、SoapUI、Axure RP、Xmanager Enterprise、git bash、vim，JIRA
 
 ## 联系我 ##
 
